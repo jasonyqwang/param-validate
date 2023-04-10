@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "jsyqw/utils": "^0.3.*"
+        "jsyqw/utils": "^0.3"
     },
     "autoload": {
         "psr-4": {
