@@ -1,0 +1,19 @@
+{
+    "name": "jsyqw/param-validate",
+    "description": "基于Yii2框架，对接口的统一验证的验证器",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Jason Wang",
+            "email": "jasonwang1211@gmail.com"
+        }
+    ],
+    "require": {
+        "jsyqw/utils": "^0.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jsyqw\\ParamValidate\\": "src/"
+        }
+    }
+}
